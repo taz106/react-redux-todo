@@ -1,1 +1,0 @@
-export const getAll = 'GET_ALL';
